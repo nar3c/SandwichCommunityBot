@@ -11,7 +11,7 @@ cd SandwichCommunityBot
 pip install -r requirements.txt
 python bot.py
 ```
-## Enter the token and [openweathermapapi](https://openweathermap.org/) key in the config.json file
+## Enter the token and [openweathermap](https://openweathermap.org/) api key in the config.json file
 ```json
 {
 	"config": [
