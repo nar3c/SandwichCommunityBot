@@ -9,6 +9,7 @@ ___
 git clone https://github.com/MaestroPepe/SandwichCommunityBot
 cd SandwichCommunityBot
 pip install -r requirements.txt
+python bot.py
 ```
 ## Enter the token and [openweathermapapi](https://openweathermap.org/) key in the config.json file
 ```json
