@@ -1,0 +1,9 @@
+{
+	"config": [
+		{
+			"TOKEN": "discord token",
+			"api_key": "openweathermap api key",
+			"PREFIX": "-"
+		}
+	]
+}
