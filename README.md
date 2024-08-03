@@ -1,4 +1,4 @@
-# :floppy_disk:**Sandwich Community bot**
+# :floppy_disk:**Sandwich Community bot BETA**
 ## Discord bot-moderator written for Sandwich Community server
 
 ![Sandwich](https://github.com/MaestroPepe/SandwichCommunityBot/blob/main/sandwich_art.jpg "Sandwich")
